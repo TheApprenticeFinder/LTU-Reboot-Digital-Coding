@@ -1,3 +1,21 @@
 /* Your code goes below here */
+p em {
+    font-size: 28px;
+  }
+  
+  p strong {
+    font-size: 32px;
+  }
+
+  ul em{
+      background-color: lavenderblush;
+      color: lightsalmon;
+  }
+
+  ul strong{
+      background-color: maroon;
+      color: mintcream;
+
+  }
 
 /* Your code goes above here */
