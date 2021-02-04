@@ -1,0 +1,20 @@
+.wrapper{
+    max-width: 700px;
+    margin:0 auto;
+    position: relative;
+
+
+}
+
+img{
+    max-width: 100%;
+}
+.wrapper figcaption{
+    background-color: blue;
+    border: coral;
+    font-size: 30px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+
+}
